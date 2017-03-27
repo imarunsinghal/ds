@@ -1,0 +1,6 @@
+Question :- 1
+
+a) Create 2 Linked list with Sorted insert in descending order.
+b) write a function for recursive reverse
+c) Merge Both linked List
+d) Remove duplicate entries.
